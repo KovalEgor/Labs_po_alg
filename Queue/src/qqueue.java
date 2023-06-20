@@ -81,7 +81,7 @@ class Queue
     }
 }
 
-class Main
+class qqueue
 {
     public static void main (String[] args)
     {
