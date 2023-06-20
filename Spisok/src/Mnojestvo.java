@@ -1,4 +1,4 @@
-public class Spisok {
+public class Mnojestvo {
     public static void main(String[] args) {
         SetNum set5 = new SetNum("N",5, 88);
         System.out.println(set5);
